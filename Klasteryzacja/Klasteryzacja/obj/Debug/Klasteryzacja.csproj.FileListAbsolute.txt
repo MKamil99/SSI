@@ -1,6 +1,0 @@
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 4. Klasteryzacja\Klasteryzacja\Klasteryzacja\bin\Debug\Klasteryzacja.exe.config
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 4. Klasteryzacja\Klasteryzacja\Klasteryzacja\bin\Debug\Klasteryzacja.exe
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 4. Klasteryzacja\Klasteryzacja\Klasteryzacja\bin\Debug\Klasteryzacja.pdb
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 4. Klasteryzacja\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.csprojAssemblyReference.cache
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 4. Klasteryzacja\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.exe
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 4. Klasteryzacja\Klasteryzacja\Klasteryzacja\obj\Debug\Klasteryzacja.pdb

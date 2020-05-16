@@ -1,6 +1,0 @@
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\bin\Debug\PunktyKluczowe.exe.config
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\bin\Debug\PunktyKluczowe.exe
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\bin\Debug\PunktyKluczowe.pdb
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\obj\Debug\PunktyKluczowe.csprojAssemblyReference.cache
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\obj\Debug\PunktyKluczowe.exe
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\obj\Debug\PunktyKluczowe.pdb
