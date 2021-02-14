@@ -1,0 +1,13 @@
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 5. Systemy rozmyte\SystemyRozmyte\SystemyRozmyte\bin\Debug\SystemyRozmyte.exe.config
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 5. Systemy rozmyte\SystemyRozmyte\SystemyRozmyte\bin\Debug\SystemyRozmyte.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 5. Systemy rozmyte\SystemyRozmyte\SystemyRozmyte\bin\Debug\SystemyRozmyte.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 5. Systemy rozmyte\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 5. Systemy rozmyte\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 5. Systemy rozmyte\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\bin\Debug\SystemyRozmyte.exe.config
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\bin\Debug\SystemyRozmyte.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\bin\Debug\SystemyRozmyte.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\obj\Debug\SystemyRozmyte.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\obj\Debug\SystemyRozmyte.csproj.CoreCompileInputs.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\obj\Debug\SystemyRozmyte.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 5. Systemy rozmyte\obj\Debug\SystemyRozmyte.pdb

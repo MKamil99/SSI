@@ -1,0 +1,13 @@
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\bin\Debug\PunktyKluczowe.exe.config
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\bin\Debug\PunktyKluczowe.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\bin\Debug\PunktyKluczowe.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\obj\Debug\PunktyKluczowe.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\obj\Debug\PunktyKluczowe.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\PunktyKluczowe\PunktyKluczowe\obj\Debug\PunktyKluczowe.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\bin\Debug\PunktyKluczowe.exe.config
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\bin\Debug\PunktyKluczowe.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\bin\Debug\PunktyKluczowe.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\obj\Debug\PunktyKluczowe.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\obj\Debug\PunktyKluczowe.csproj.CoreCompileInputs.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\obj\Debug\PunktyKluczowe.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3a. Punkty kluczowe na obrazach\obj\Debug\PunktyKluczowe.pdb

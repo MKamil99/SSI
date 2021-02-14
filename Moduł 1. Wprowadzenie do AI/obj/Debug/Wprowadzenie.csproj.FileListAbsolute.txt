@@ -1,0 +1,13 @@
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\bin\Debug\Wprowadzenie.exe.config
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\bin\Debug\Wprowadzenie.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\bin\Debug\Wprowadzenie.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\obj\Debug\Wprowadzenie.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\obj\Debug\Wprowadzenie.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\obj\Debug\Wprowadzenie.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\bin\Debug\Wprowadzenie.exe.config
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\bin\Debug\Wprowadzenie.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\bin\Debug\Wprowadzenie.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\obj\Debug\Wprowadzenie.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\obj\Debug\Wprowadzenie.csproj.CoreCompileInputs.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\obj\Debug\Wprowadzenie.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 1. Wprowadzenie do AI\obj\Debug\Wprowadzenie.pdb

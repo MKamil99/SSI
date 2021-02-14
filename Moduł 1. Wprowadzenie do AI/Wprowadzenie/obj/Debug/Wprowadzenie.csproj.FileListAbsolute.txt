@@ -1,6 +1,0 @@
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\bin\Debug\Wprowadzenie.exe.config
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\bin\Debug\Wprowadzenie.exe
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\bin\Debug\Wprowadzenie.pdb
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\obj\Debug\Wprowadzenie.csprojAssemblyReference.cache
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\obj\Debug\Wprowadzenie.exe
-C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 1. Wprowadzenie do AI\Wprowadzenie\Wprowadzenie\obj\Debug\Wprowadzenie.pdb

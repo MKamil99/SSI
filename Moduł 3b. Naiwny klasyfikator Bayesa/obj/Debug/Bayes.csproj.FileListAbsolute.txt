@@ -1,0 +1,19 @@
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, klasteryzacja, Bayes\Bayes\Bayes\obj\Debug\Bayes.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, klasteryzacja, Bayes\Bayes\Bayes\bin\Debug\Bayes.exe.config
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, klasteryzacja, Bayes\Bayes\Bayes\bin\Debug\Bayes.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, klasteryzacja, Bayes\Bayes\Bayes\bin\Debug\Bayes.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, klasteryzacja, Bayes\Bayes\Bayes\obj\Debug\Bayes.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, klasteryzacja, Bayes\Bayes\Bayes\obj\Debug\Bayes.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\Bayes\Bayes\bin\Debug\Bayes.exe.config
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\Bayes\Bayes\bin\Debug\Bayes.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\Bayes\Bayes\bin\Debug\Bayes.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\Bayes\Bayes\obj\Debug\Bayes.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\Bayes\Bayes\obj\Debug\Bayes.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 3. Przetwarzanie grafiki, Bayes\Bayes\Bayes\obj\Debug\Bayes.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\bin\Debug\Bayes.exe.config
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\bin\Debug\Bayes.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\bin\Debug\Bayes.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\obj\Debug\Bayes.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\obj\Debug\Bayes.csproj.CoreCompileInputs.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\obj\Debug\Bayes.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 3b. Naiwny klasyfikator Bayesa\obj\Debug\Bayes.pdb

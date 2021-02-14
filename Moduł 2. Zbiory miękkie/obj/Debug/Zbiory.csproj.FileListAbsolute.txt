@@ -1,0 +1,13 @@
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 2. Zbiory miękkie\Zbiory\Zbiory\bin\Debug\Zbiory.exe.config
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 2. Zbiory miękkie\Zbiory\Zbiory\bin\Debug\Zbiory.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 2. Zbiory miękkie\Zbiory\Zbiory\bin\Debug\Zbiory.pdb
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 2. Zbiory miękkie\Zbiory\Zbiory\obj\Debug\Zbiory.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 2. Zbiory miękkie\Zbiory\Zbiory\obj\Debug\Zbiory.exe
+C:\Users\mkami\Desktop\Systemy sztucznej inteligencji\Moduł 2. Zbiory miękkie\Zbiory\Zbiory\obj\Debug\Zbiory.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\bin\Debug\Zbiory.exe.config
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\bin\Debug\Zbiory.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\bin\Debug\Zbiory.pdb
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\obj\Debug\Zbiory.csprojAssemblyReference.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\obj\Debug\Zbiory.csproj.CoreCompileInputs.cache
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\obj\Debug\Zbiory.exe
+C:\Users\mkami\Desktop\Repozytoria\SSI\Moduł 2. Zbiory miękkie\obj\Debug\Zbiory.pdb
